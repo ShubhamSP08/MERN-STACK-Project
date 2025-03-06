@@ -1,0 +1,1 @@
+"When enabled, the API creates a series of serverless endpoints that can be accessed without using native drivers. This API can be helpful when you need to access your data from an application that doesn't use those drivers, such as a bash script, a Google Sheet document, or even another database."
